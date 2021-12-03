@@ -7759,7 +7759,7 @@ var Conclusion = function Conclusion() {
           className: "col-md-12",
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("h1", {
             className: "text-center",
-            children: "Did they perform to your expectations?"
+            children: "Hello?"
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
             children: "Yes, React did perform according to our expectations. It is a wonderful tool that can be used to host a variety of media formats and web components. Surprisingly easy to use and e nabled us to customize our website content with many options."
           })]
