@@ -6,7 +6,7 @@ const Conclusion = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-12">
-                        <h1 className="text-center">Did they perform to your expectations?</h1>
+                        <h1 className="text-center">Hello?</h1>
                         <p>
                         Yes, React did perform according to our expectations. It is a wonderful tool that can be 
                         used to host a variety of media formats and web components. Surprisingly easy to use and e
